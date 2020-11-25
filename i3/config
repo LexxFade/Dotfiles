@@ -27,7 +27,7 @@ exec --no-startup-id amixer set Capture nocap
 exec --no-startup-id xrandr --output DP1 --off --output HDMI1 --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off
 exec --no-startup-id feh --bg-fill --randomize ~/Pictures/wallpaper
 #transparency 
-exec --no-startup-id xcompmgr -c
+exec --no-startup-id picom --experimental-backends
 
 #set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
@@ -130,8 +130,8 @@ bindsym --whole-window --border $mod+shift+button5 resize grow width 5 px or 5 p
 
 set $bg-color		        #180b06
 set $inactive-bg-color		#180b06
-set $text-color		        #ff1919
-set $inactive-text-color	#ff9999
+set $text-color		        #ff0000
+set $inactive-text-color	#38E0FF
 set $urgent-bg-color		#1A191D
 #			border			background		text			indicator
 client.focused		$bg-color		$bg-color		$text-color		#ff7676
