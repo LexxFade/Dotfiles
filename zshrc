@@ -16,6 +16,8 @@ source $ZSH/oh-my-zsh.sh
 export VISUAL=nano;
 export EDITOR=nano;
 
+.scripts/info.sh | lolcat -p 1
+
 alias install='sudo pacman -S'
 alias trash='sudo pacman -Rns'
 alias look='pacman -Ss'
