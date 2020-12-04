@@ -7,7 +7,7 @@ geometry = "350x5-10+30"
 indicate_hidden = yes
 shrink = yes
 
-transparency = 10
+transparency = 20
 separator_height = 1
 padding = 6
 horizontal_padding = 7
@@ -52,16 +52,16 @@ history = ctrl+Escape
 context = ctrl+shift+period
 
 [urgency_low]
-timeout = 3
+timeout = 10
 background = "#131212"
 foreground = "#2FDCFF"
 
 [urgency_normal]
-timeout = 6
+timeout = 15
 background = "#131212"
 foreground = "#2FDCFF"
 
 [urgency_critical]
-timeout = 0
+timeout = 30
 background = "#131212"
 foreground = "#2FDCFF"
