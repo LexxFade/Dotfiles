@@ -37,3 +37,4 @@
 | [Picom](https://github.com/tryone144/picom/tree/feature/dual_kawase)              | A compositor to get window transparency and blur                  |
 | [Feh](https://github.com/derf/feh)                                                | Image viewer, useful to set a wallpaper                           |
 | [Dunst](https://github.com/dunst-project/dunst)                                   | Notification applet                                               |
+| [Layan Cursors](https://www.gnome-look.org/p/1365214/)                            | Bubble drop cursor icon                                           |
