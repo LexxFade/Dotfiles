@@ -32,3 +32,6 @@ alias runc='~/.scripts/run-c.sh'
 alias runcpp='~/.scripts/run-cpp.sh'
 alias nvidia='prime-run'
 alias usenvidia='sudo ./.scripts/use_nvidia'
+alias info='clear && .scripts/info.sh | lolcat -p 0.5'
+alias mem="sudo sh -c 'sync; echo 3 > /proc/sys/vm/drop_caches' && echo '\nCleared RAM'"
+alias bloat='pacman -Qqdt | wc -l'
