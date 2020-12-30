@@ -1,0 +1,55 @@
+! ==] Basics [==============!
+!! UniCode Support
+XTerm*locale: false
+XTerm*utf8: true
+
+!! Scroll Capacity
+XTerm*saveLines:   5000
+
+!! Window Dimentions
+XTerm*geometry: 137x43
+
+!! Font
+XTerm*faceName: Monospace
+XTerm*faceSize: 11
+
+
+! ==] Colors [============== !
+XTerm*foreground: #fddcdc
+XTerm*background: #000000
+XTerm*cursorColor: #DDDDFF
+XTerm*cursorColor2: #020202
+
+XTerm*color0: #00FF00
+XTerm*color1: #FF0000
+
+!! Selection
+XTerm*color6: #14c36e
+
+!! Dark Green -> UserName Color
+XTerm*color2: #00c200
+
+XTerm*color3: #DFAF8F
+XTerm*color4: #4F5F6F
+XTerm*color5: #DC8CC3 
+XTerm*color7: #104050
+XTerm*color8: #709080
+XTerm*color9: #FC5555
+
+!! Bright Yellow -> Pacman Package Version
+XTerm*color10: #f4ff74
+
+XTerm*color11: #F0DFAF 
+XTerm*color12: #94BFF3
+
+!! Blue -> Pacman Package Repo-Group
+XTerm*color13: #60e3ff
+
+XTerm*color14: #E3E0E3
+XTerm*color15: #FFA500
+
+
+! ==] Shortcuts [========== !
+XTerm*VT100.Translations: #override \n\
+ Alt <KeyPress> v: insert-selection(CLIPBOARD) \n\
+ Alt <KeyPress> c: copy-selection(CLIPBOARD) \n
