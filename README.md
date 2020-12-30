@@ -18,7 +18,7 @@
 | Package                                                                       | Description                                                      |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------|
 | [Zsh](https://github.com/zsh-users/zsh)                                       | The most powerful shell out there!                               |
-| [Kitty](https://github.com/kovidgoyal/kitty)                                  | A fast, featureful, GPU based, terminal emulator                 |
+| [XTerm](https://invisible-island.net/xterm/)                                  | Pretty basic terminal emulator                                   |
 | [tty-clock](https://github.com/xorg62/tty-clock)                              | Terminal clock                                      \**optional* |
 | [*custom script*](https://github.com/LexxFade/Tools/tree/main/System%20Info)  | Terminal flash screen with everytime a new icon                  |
 
