@@ -15,6 +15,10 @@
 - KDEnLive<br>Video editor based on QT framework
 
 
+## Security
+- Clamav<br>CLI Anti-Virus
+- FireJail<br>Sandboxing app
+
 ## System Analysis 
 - nvtop<br>**htop** type tool for nvidia GPU
 - lstopo<br>Show the topology of the system
