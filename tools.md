@@ -17,6 +17,7 @@
 
 ## Security
 - Clamav<br>CLI Anti-Virus
+- GUFW<br>Simple Firewall
 - FireJail<br>Sandboxing app
 
 ## System Analysis 
