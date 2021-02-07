@@ -9,6 +9,7 @@
     <a href="https://raw.githubusercontent.com/LexxFade/Dotfiles/main/Screenshots/dunst.png">dunst</a>&nbsp;&nbsp;&nbsp;
     <a href="https://raw.githubusercontent.com/LexxFade/Dotfiles/main/Screenshots/rofi.png">rofi</a>&nbsp;&nbsp;&nbsp;
     <a href="https://raw.githubusercontent.com/LexxFade/Dotfiles/main/Screenshots/firefox.png">firefox</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://raw.githubusercontent.com/LexxFade/Dotfiles/main/Screenshots/firefox.png">firefox</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Essential stuff used in this config
@@ -38,3 +39,11 @@
 | [Feh](https://github.com/derf/feh)                                                | Image viewer, useful to set a wallpaper                           |
 | [Dunst](https://github.com/dunst-project/dunst)                                   | Notification applet                                               |
 | [Layan Cursors](https://www.gnome-look.org/p/1365214/)                            | Bubble drop cursor icon                                           |
+
+<br><br>
+<p align="center">
+    <b>Also Check<b><br>
+    <a href="https://github.com/LexxFade/Dotfiles/blob/main/tools.md">Recommended Tools</b>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/LexxFade/Dotfiles/blob/main/Shortcuts.md">Shortcuts</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/LexxFade/Tools">Custom Tools</a>&nbsp;&nbsp;&nbsp;
+</p>
