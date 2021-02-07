@@ -43,7 +43,7 @@
 <br><br>
 <p align="center">
     <b>Also Check<b><br>
-    <a href="https://github.com/LexxFade/Dotfiles/blob/main/tools.md">Recommended Tools</b>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/LexxFade/Dotfiles/blob/main/Shortcuts.md">Shortcuts</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/LexxFade/Tools">Custom Tools</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/LexxFade/Dotfiles/blob/main/tools.md">Recommended-Tools</b>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/LexxFade/Dotfiles/blob/main/Useful-Shortcuts.md">Shortcuts</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/LexxFade/Tools">Custom-Tools</a>&nbsp;&nbsp;&nbsp;
 </p>
